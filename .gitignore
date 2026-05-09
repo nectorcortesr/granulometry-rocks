@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Data & Telemetry Logs
+data/videos/*.mp4
+data/videos/*.avi
+*.csv
+test_log.csv
+production_scada.csv
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDEs y Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# C++ / Binarios y Compilaciones
+build/
+bin/
+obj/
+*.exe
+*.out
+*.app
